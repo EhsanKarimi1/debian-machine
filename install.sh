@@ -54,9 +54,9 @@ tar -zxvf Nordzy-cursors-white.tar.gz -C $HOME/.icons/
 rm -rf Nordzy-cursors-white.tar.gz
 
 # icons
-sudo apt install papirus-icon-theme
-
-# Fonts
+git clone https://github.com/somepaulo/MoreWaita.git
+cd Morewaita
+./system-install.sh
 
 
 ### Installing Firefox
