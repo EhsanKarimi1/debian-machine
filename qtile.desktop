@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=qtile
+Comment=python-based tiling window manager
+Exec=qtile
+Type=Application
